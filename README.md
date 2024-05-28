@@ -105,7 +105,7 @@ This project is a full-stack application designed to provide custom routes for e
 
 ## Database Schema
 
-![Database Schema](path/to/database-schema-screenshot.png)
+![Database Schema](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-29%20010041.png)
 
 ## Algorithm Details
 
@@ -133,7 +133,7 @@ This project is a full-stack application designed to provide custom routes for e
    - Use a recursive BackTracking approach to find the combination of leisure activities that meets the most user preferences while extending the route minimally.
 ## Presentation
 
-You can view the algorithm presentation [here](path/to/your-presentation.pptx).
+You can view the algorithm presentation [here](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blame/master/%D7%90%D7%9C%D7%92%D7%95%D7%A8%D7%99%D7%AA%D7%9D.pptx).
 
 ## Contact Information
 
