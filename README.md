@@ -87,21 +87,21 @@ This project is a full-stack application designed to provide custom routes for e
 ## Screenshots
 
 ### Login Page
-![Login Page](path/to/login-screenshot.png)
+![./images/צילום מסך 2024-05-28 221644.png](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221644.png)
 
 ### Signup Page
-![Signup Page](path/to/signup-screenshot.png)
+![Signup Page](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221658.png)
 
 ### Selfzone - Favorite
-![Favorite Locations](path/to/favorite-screenshot.png)
+![Favorite Locations](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221621.png)
 
 ### Selfzone - Cars
-![Manage Cars](path/to/cars-screenshot.png)
+![Manage Cars](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221606.png)
 
 ### Main Route Planning Page
-![Route Planning](path/to/main-route-screenshot1.png)
-![Route Planning](path/to/main-route-screenshot2.png)
-![Route Planning](path/to/main-route-screenshot3.png)
+![Route Planning](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221257.png)
+![Route Planning](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221410.png)
+![Route Planning](https://github.com/ruthiedel/Electric-Vehicle-RoutePlanner/blob/master/images/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-05-28%20221458.png)
 
 ## Database Schema
 
