@@ -1,0 +1,168 @@
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.deps.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.runtimeconfig.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\bin\Release\net6.0\Readily.Repository.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.AssemblyReference.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfoInputs.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.AssemblyInfo.cs
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.csproj.CoreCompileInputs.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\refint\Readily.Repository.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\Readily.Repository.genruntimeconfig.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.Repository\obj\Release\net6.0\ref\Readily.Repository.dll

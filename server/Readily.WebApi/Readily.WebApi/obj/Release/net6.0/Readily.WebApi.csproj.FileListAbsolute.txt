@@ -1,0 +1,1069 @@
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+D:\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+D:\0504161574\יד\פרויקט c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\יד\c#\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+D:\רותי אדל ולאה לוי\רותי אדל פרויקט\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\ruthi_lea\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+D:\רותי אדל ולאה לוי\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.Development.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\appsettings.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.exe
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.deps.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.runtimeconfig.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.WebApi.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Core.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Azure.Identity.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Drawing.Common.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Memory.Data.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Runtime.Caching.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Security.Permissions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.MockContext.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Service.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Common.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\bin\Release\net6.0\Readily.Repository.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.pack.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.build.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\staticwebassets.development.json
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\refint\Readily.WebApi.dll
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.pdb
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\יד\react\React\electricCars\server\Readily.WebApi\Readily.WebApi\obj\Release\net6.0\ref\Readily.WebApi.dll

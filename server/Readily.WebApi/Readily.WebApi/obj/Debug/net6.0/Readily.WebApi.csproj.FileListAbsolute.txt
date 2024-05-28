@@ -1,0 +1,603 @@
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+D:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+D:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+E:\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+E:\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Readily.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Readily.WebApi.props
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Readily.WebApi.props
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Readily.WebApi.props
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+E:\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.exe
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.MockContext.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Service.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\bin\Debug\net6.0\Readily.Repository.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\scopedcss\bundle\Readily.WebApi.styles.css
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\refint\Readily.WebApi.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\Readily.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.WebApi\obj\Debug\net6.0\ref\Readily.WebApi.dll

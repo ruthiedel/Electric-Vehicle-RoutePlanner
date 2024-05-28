@@ -1,0 +1,83 @@
+D:\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+D:\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+D:\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+D:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
+E:\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+E:\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+E:\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.AssemblyReference.cache
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+E:\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
+E:\R\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+E:\R\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+E:\R\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.AssemblyReference.cache
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+E:\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\מיכל בשארי\C# המורה סירוקה\R\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\לאה לוי\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.deps.json
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\bin\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\refint\Readily.Common.dll
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\Readily.Common.pdb
+L:\שנה ב\משרד החינוך\רותי אדל\c#\פרויקט סירוקה\Readily.WebApi\Readily.Common\obj\Debug\net6.0\ref\Readily.Common.dll
